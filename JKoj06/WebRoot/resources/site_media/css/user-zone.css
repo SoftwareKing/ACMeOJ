@@ -1,0 +1,137 @@
+@CHARSET "UTF-8";
+body {
+	background-color:#ECECEC;
+}
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, p, blockquote, table, th, td {
+    margin: 0px;
+    padding: 0px;
+}
+h2{
+	color:#5aa000;
+	text-align:left;
+	margin:10px;
+}
+a:hover {
+	color:#F00;
+}
+#user-zone{
+	width: 970px;
+	margin: auto;
+	text-align: center;
+}
+#user-info table {
+    border-collapse: collapse;
+    empty-cells: show;
+    line-height: 2em;
+    font-size: 14px;
+	margin: 5px;
+}
+#owner-img{
+    text-align: center;
+    width: 207px;
+}
+#owner-info {
+	width:275px;
+}
+#owner-info dt{
+	clear: left;
+	float:left;
+	width:60px;
+	padding: 1px 0px 3px;
+	line-height: 1.5;
+    margin-right: 33px;
+    text-align: right;
+    width: 100px;
+}
+#owner-info dd{
+	text-align:left;
+	margin-left: 73px;
+	line-height: 1.5;
+    margin-left: 101px;
+    min-height: 18px;
+	padding: 1px 0px 3px;
+}
+#user-contests {
+	width: 970px;
+}
+#owner-submit, #contests-list{
+	border-left:1px solid #CCCCCC;
+	position: relative;
+	float:left;
+	padding-left:15px;
+	display: inline;
+}
+
+#contests-list {
+	margin:10px;
+	text-align:left;
+	width: 200px;
+	float:left;
+}
+#contests-list ul li{
+	list-style:none outside none;
+}
+#contests-list li a{
+	display:block;
+	height: 30px;
+    padding: 0 2px;
+   	line-height: 26px;
+}
+#contests-list li a:hover{
+	background-color: #5AA000;
+	color:#F00;
+	
+}
+#owner-submit{
+	float:left;
+}
+#owner-submit table{
+	width:100%;
+	margin-top:10px;
+}
+#owner-submit .contest{
+	width:125px;
+}
+#owner-submit .title{
+	width:125px;
+}
+#owner-submit .result{
+	width:100px;
+}
+#owner-submit .memory{
+	width:55px;
+}
+#owner-submit .spending-time,#owner-submit .language{
+	width:40px;
+}
+#owner-submit .code-length{
+	width:80px;
+}
+#owner-submit table thead tr {
+	background:none repeat scroll 0 0 #5AA000;
+}
+#owner-submit .date{
+	width:74px;
+}
+#owner-submit table td{
+	padding:0 3px;
+	border-bottom:1px dotted #CCC;
+}
+
+#owner-submit tbody .contest{
+	height:35px;
+}
+#owner-submit .contest a{
+	overflow:hidden;
+	width:50px;
+}
+
+#owner-submit img{
+	vertical-align:middle;
+}
+.current-group a{
+	color:white;
+	background-color:#5AA000;
+}
+	
+

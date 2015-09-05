@@ -1,0 +1,26 @@
+body{ margin:0; padding:0; font-family:Tahoma,Arial,"ËÎÌו", Helvetica, sans-serif; line-height:21px; font-size:12px; background:#fff; color:#3e86b8;background:url(../images/dlbg.jpg) repeat-x top #9ABECC;}
+.c{clear:both;}
+a,a:hover{color:#FFF; text-decoration:none;}
+form{margin:0; padding:0;}
+#bigbox{width:100%; height:100%; background:url("login/dlbg.jpg") repeat-x center;}
+#smallbox{background:url("login/dlbg1.jpg") no-repeat; width:658px; height:346px; margin:0 auto;}
+#gsname{ padding:54px 50px 0 175px; height:68px; width:433px; text-align:center;}
+.tex{font-size:12px; background:url("login/textboxbg.gif") no-repeat; padding:1px 5px; margin:13px 0 0 420px; height:20px; width:146px; display:inline; position:absolute;}
+.tex1{font-size:12px; background:url("login/textboxbg.gif") no-repeat; padding:1px 5px; margin:57px 0 0 420px; height:20px; width:146px; display:inline; position:absolute;}
+.tex2{font-size:12px; background:url("login/textboxbg1.gif") no-repeat; padding:1px 5px; margin:100px 0 0 420px; height:20px; width:164px; display:inline; position:absolute;}
+.texbox{  border:none; margin-left:-3px; width:152px; float:left; height:20px; line-height:20px;}
+.texbox1{  border-style: none;
+	border-color: inherit;
+	border-width: medium;
+	width:60px; 
+	float:left; 
+	margin-left:-0px; 
+	height:19px;
+	margin-top:-0px;
+}
+.yzm{margin-left:7px; margin-top:0px; position:relative;}
+.xinhao{color:Red; float:left; margin-left:152px; margin-top:-12px; position:relative;}
+.xinhao1{color:Red; padding-left:6px;}
+.menu{ margin:135px 0 0 340px; height:20px; width:264px; display:inline; position:absolute;}
+.cw{color:#FF0000; background:url("login/gth.gif") no-repeat 0px 4px; padding-left:30px; height:22px; line-height:22px; padding-bottom:8px; width:180px;}
+.dibu{ margin:220px 0 0 0; height:50px; width:658px; display:inline; position:absolute; text-align:center; font-size:12px;}

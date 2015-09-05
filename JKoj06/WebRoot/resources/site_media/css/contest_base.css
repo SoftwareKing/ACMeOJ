@@ -1,0 +1,215 @@
+ACMeOJ-Problem_fiehtml {
+    background: #ECECEC;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    font-size: 14px;
+    color: #13110B;
+    text-align: center;
+    background: #ECECEC;/*url(../images/Main_bg.jpg);*/
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+
+.ACMeOJ-clear {
+    width: 100%;
+    height: 1px;
+    clear: both;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+img {
+    margin: 0px;
+    padding: 0px;
+    border: none;
+}
+
+a {
+    color: #FF6600;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #5B6973;
+    text-decoration: none;
+}
+
+p {
+    margin: 0px;
+    padding: 0px;
+    margin-bottom: 3px;
+}
+
+pre {
+    margin: 0px;
+    padding: 0px;
+    font-size: 15px;
+}
+
+pre p {
+    margin: 0px;
+    padding: 0px;
+}
+
+h1,h2,h3 {
+    margin: 5px 10px 10px 10px;
+    color: #8AD300;
+}
+
+.ACMeOJ-sunbmit {
+    margin-top: 5px;
+    padding: 2px 5px 2px 5px;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-weight: bold;
+    border: none;
+    background: url("img/bg-btn-blue.png");
+}
+
+#ACMeOJ-total {
+    width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#ACMeOJ-marquee_message {
+    font-size: 25px;
+    font-weight: bold;
+    color: #007DCA;
+}
+
+#ACMeOJ-head {
+    width: 1000px;
+    height: 100px;
+}
+
+#ACMeOJ-user_side {
+    width: 1000px;
+    height: 25px;
+}
+
+#ACMeOJ-base_login_form fieldset {
+    width: 205x;
+    border: none;
+}
+
+#ACMeOJ-base_login_form fieldset input {
+    width: 200px;
+}
+
+#ACMeOJ-base_login_form fieldset img {
+    width: 80px;
+    height: 35px;
+    margin: 0px;
+    margin-bottom: -3px;
+}
+
+#ACMeOJ-base_login_form fieldset legend {
+    font-size: 13px;
+    font-weight: bold;
+    color: #007DCA;
+    padding: 0px;
+}
+
+#ACMeOJ-logo_img {
+    width: 945px;
+    height: 75px;
+    margin: 0 auto;
+}
+
+#ACMeOJ-contest_menu {
+    width: 1000px;
+    height: 45px;
+    background: url("img/contest_menu.png") top center no-repeat;
+}
+
+#ACMeOJ-contest_menu ul {
+    list-style: none;
+    padding: 9px 5px;
+}
+
+#ACMeOJ-contest_menu li {
+    float: left;
+    width: 155px;
+    font-size: 20px;
+    line-height: 35px;
+    font-weight: bold;
+}
+
+#ACMeOJ-contest_menu a, #ACMeOJ-contest_menu a:active, #ACMeOJ-contest_menu a:visited {
+    text-decoration: none;
+    color: #123456;
+    padding: 10px;
+}
+
+#ACMeOJ-contest_menu a:hover {
+    color: #FFFFFF;
+}
+
+#ACMeOJ-main {
+    width: 950px;
+    min-height: 450px;
+    margin: 0 auto;
+}
+
+#words {
+    text-align: left;
+}
+
+.Simple_put {
+    border: dashed 1px;
+    background: #ECECEC;
+    padding: 0px;
+    margin-bottom: 15px;
+}
+
+.ACMeOJ-Problem_fie {
+    width: 928px;
+    border: 2px dashed #8AD300;
+    padding: 10px 10px 10px 10px;
+    font-size: 15px;
+    margin-bottom: 15px; 
+    word-wrap: break-word; /* Internet Explorer 5.5+ */
+}
+.ACMeOJ-Problem_fie div {
+		white-space: pre-wrap; /* css-3 */
+    white-space: -moz-pre-wrap; /* Mozilla, since 1999 */
+    white-space: -pre-wrap; /* Opera 4-6 */
+    white-space: -o-pre-wrap; /* Opera 7 */
+}
+
+.ACMeOJ-Problem_fie legend {
+    padding: 0px 15px 0px 15px;
+    font-size: 20px;
+    color: #8AD300;
+    font-weight: bold;
+}
+
+
+
+.linebreak {
+    white-space: pre-wrap;  /* css-3 */
+    white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+    white-space: -pre-wrap;  /* Opera 4-6 */
+    white-space: -o-pre-wrap;  /* Opera 7 */
+    word-wrap: break-word;  /* Internet Explorer 5.5+ */
+}
+.w_footer {
+background: url("img/footer_bg.gif");
+width: 100%;
+height: 80px;
+line-height: 40px;
+}
+.foot {
+width: 1000px;
+margin: 0 auto;
+height: 40px;
+font-size: 12px;
+color: #FFFFFF;
+display: block;
+}

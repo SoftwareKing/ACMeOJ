@@ -1,0 +1,185 @@
+
+body {
+    margin: 0px;
+    padding: 0px;
+    font-size: 14px;
+    background: url("img/body_bg.gif");
+   
+    text-align: center;
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+  
+}
+
+.ACMeOJ-clear {
+    width: 100%;
+    height: 1px;
+    clear: both;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+img {
+    margin: 0px;
+    padding: 0px;
+    border: none;
+}
+
+a {
+    color: #0099cc;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #5B6973;
+    text-decoration: none;
+}
+
+p {
+    margin: 0px;
+    padding: 0px;
+    margin-bottom: 3px;
+}
+
+pre {
+    margin: 0px;
+    padding: 0px;
+    font-size: 15px;
+}
+
+pre p {
+    margin: 0px;
+    padding: 0px;
+}
+
+h1,h2,h3 {
+    margin: 5px 10px 10px 10px;
+    color: #5aa000;
+}
+
+#index_header {
+	background: url("img/index_headerbg.jpg") repeat-x;
+	height: 393px;
+	overflow: hidden
+}
+
+#index_headercontent {
+	background: url("img/index_headercontentbg.jpg");
+	width: 971px;
+	height: 388px;
+	margin: 0 auto;
+	padding-top: 5px;
+	overflow: hidden
+}
+
+#ACMeOJ-total {
+    width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+   
+}
+
+
+
+
+
+#ACMeOJ-base_login_form fieldset {
+    width: 205px;
+    border: none;
+}
+
+#ACMeOJ-base_login_form fieldset input {
+    width: 200px;
+}
+
+#ACMeOJ-base_login_form fieldset img {
+    width: 80px;
+    height: 35px;
+    margin: 0px;
+    margin-bottom: -3px;
+}
+
+#ACMeOJ-base_login_form fieldset legend {
+    font-size: 13px;
+    font-weight: bold;
+    color: #007DCA;
+    padding: 0px;
+}
+
+#ACMeOJ-logo_img {
+    width: 945px;
+    height: 75px;
+    margin: 0 auto;
+}
+
+
+#ACMeOJ-main {
+    width: 1000px;
+    min-height: 450px;
+}
+
+#words {
+    text-align: left;
+}
+
+.Simple_put {
+    border: dashed 1px;
+    background: #FFFFFF;
+    padding: 0px;
+    margin-bottom: 15px;
+}
+
+.ACMeOJ-Problem_fie {
+    width: 980px;
+    border: 1px dashed #000000;
+    padding: 10px;
+    font-size: 15px;
+    margin-bottom: 15px;
+    white-space: pre-wrap;  /* css-3 */
+    white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+    white-space: -pre-wrap;  /* Opera 4-6 */
+    white-space: -o-pre-wrap;  /* Opera 7 */
+    word-wrap: break-word;  /* Internet Explorer 5.5+ */
+}
+
+.ACMeOJ-Problem_fie legend {
+    padding: 0px 15px 0px 15px;
+    font-size: 20px;
+    color: #007DCA;
+    font-weight: bold;
+}
+.linebreak {
+    white-space: pre-wrap;  /* css-3 */
+    white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+    white-space: -pre-wrap;  /* Opera 4-6 */
+    white-space: -o-pre-wrap;  /* Opera 7 */
+    word-wrap: break-word;  /* Internet Explorer 5.5+ */
+}
+
+#words {
+text-align: left;
+}
+
+.w_footer {
+background: url("img/footer_bg.gif");
+width: 100%;
+height: 80px;
+line-height: 40px;
+}
+.foot {
+width: 1000px;
+margin: 0 auto;
+height: 40px;
+font-size: 12px;
+color: #FFFFFF;
+display: block;
+}
+.article_box {
+overflow: hidden;
+background: #FFFFFF;
+padding: 20px 20px;
+display: block;
+margin-top: 20px;
+}

@@ -1,0 +1,78 @@
+/* theodin.co.uk -Designed and developed by Philip Beel All Rights Reserved*/
+
+/* 
+------------------------------------------------------------------------------------------------------Genetic--------------*/
+#contactable {
+	background-image: url("img/contact.png");
+    color: #FFFFFF;
+    background-color: #ECECEC;
+    cursor: pointer;
+    height: 102px;
+    left: 0;
+    margin-left: -5px; 
+    *margin-left: -5px; 
+    overflow: hidden;
+    position: fixed;
+    *position: absolute;
+    text-indent: -100000px;
+    top: 102px;
+    *margin-top: 10px;
+    width: 44px;
+    z-index: 100000;
+}
+
+#ACMeOJ-left_menu {
+    font-size: 17px;
+    background-color: #ECECEC;
+    border: 5px solid #76AC10;
+    color: #FFFFFF;
+    height: 480px;
+    left: 0;
+    margin-left: -400px;
+    *margin-left: -434px;
+    margin-top: -160px;
+    overflow: hidden;
+    padding-left: 30px;
+    position: fixed;
+    top: 200px;
+    width: 360px;
+    *width: 394px;
+    z-index: 99;
+    padding-top: 10px;
+}
+
+#ACMeOJ-left_menu div {
+    width: 330px;
+    height: 26px;
+    text-align: center;
+}
+
+#ACMeOJ-left_menu fieldset {
+    width: 330px;
+    margin-bottom: 5px;
+    text-align: left;
+}
+
+#ACMeOJ-left_menu fieldset img {
+    height: 13px;
+    width: 13px;
+    margin: 0px 3px 0px 0px;
+    padding: 0px;
+    border: none;
+}
+
+#ACMeOJ-left_menu fieldset legend {
+    height: 23px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #5aa000;
+    padding: 0px 10px 0px 10px;
+}
+
+#ACMeOJ-left_menu div a {
+    color: #535353;
+}
+
+#ACMeOJ-left_menu div a:hover {
+    color: #FF0000;
+}

@@ -1,0 +1,41 @@
+.clear { /* generic container (i.e. div) for floating buttons */
+    overflow: hidden;
+    width: 100%;
+}
+
+a.ACMeOJ-button {
+    background: transparent url("img/bg_button_a.png") no-repeat scroll top right;
+    color: #54A000;
+    display: block;
+    float: left;
+    font: normal 12px arial, sans-serif;
+    height: 24px;
+    margin-right: 6px;
+    padding-right: 18px; /* sliding doors padding */
+    text-decoration: none;
+    margin-top: 5px;
+    font-weight: bold;
+}
+
+a.ACMeOJ-button span {
+    background: transparent url("img/bg_button_span.png") no-repeat;
+    display: block;
+    line-height: 14px;
+    padding: 5px 0 5px 18px;
+}
+
+a.ACMeOJ-button:active {
+    background-position: bottom right;
+    color: #444444;
+    outline: none; /* hide dotted outline in firefox */
+}
+
+a.ACMeOJ-button:active span {
+    background-position: bottom left;
+    padding: 6px 0 4px 18px; /* push text down 1px */
+}
+.emp {
+	background:#ff0;
+	color:#f00;
+	font-weight:bolder;
+}

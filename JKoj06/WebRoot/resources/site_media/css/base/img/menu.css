@@ -1,0 +1,33 @@
+@CHARSET "UTF-8";
+#ACMeOJ-menu {
+    width: 1000px;
+    height: 40px;
+}
+
+#ACMeOJ-menu_side {
+    height: 44px;
+    width: 805px;
+    float: right;
+    display: inline;
+    text-align: left;
+    display: inline;
+}
+
+#ACMeOJ-menu_side a {
+    color: #FFFFFF;
+    line-height: 50px;
+    font-size: 19px;
+    float: left;
+    display: inline;
+    padding-left: 10px;
+    padding-right: 5px;
+}
+
+#ACMeOJ-menu_side a:hover {
+    color: #DDA0DD;
+}
+
+#ACMeOJ-menu_cut {
+    float: left;
+    margin-top: 11px;
+}

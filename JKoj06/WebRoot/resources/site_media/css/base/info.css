@@ -1,0 +1,7 @@
+@CHARSET "UTF-8";
+
+#ACMeOJ-marquee_message {
+	font-size: 25px;
+	font-weight: bold;
+	color: #5aa000;
+}

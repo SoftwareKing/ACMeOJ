@@ -1,0 +1,89 @@
+/* table style*/
+
+.ACMeOJ-table {
+      width: 100%;
+      border-left: 1px solid #8AD300;
+      border-right: 1px solid #8AD300;
+      border-collapse: separate;
+      font-size: 14px;
+      line-height: 15px;
+}
+.ACMeOJ-table_title {
+      width: 100%;
+      border-collapse: separate;
+      font-size: 14px;
+      line-height: 15px;
+}
+
+.ACMeOJ-table tr.altrow, .ACMeOJ-table_title tr .altrow {
+    background-color: #B7D5FF;
+}
+
+.ACMeOJ-table tr.over {
+    background-color: #C7E5FF;
+}
+
+.ACMeOJ-table th {
+    background-color: #8AD300;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 16px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+}
+
+.ACMeOJ-table td, .ACMeOJ-table_title td{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    vertical-align: top;
+    border-bottom: 1px solid #8AD300;
+    text-align: center;
+    word-break: break-all;
+}
+
+.roundbox {
+border: 1px solid #ECECEC;
+position: relative;
+background-color:#FFFFFF;
+}
+.roundbox .roundbox-lt {
+background: url("img/border/roundbox-lt.png") no-repeat top left;
+position: absolute;
+top: -1px;
+left: -1px;
+}
+.roundbox .roundbox-rt {
+background: url("img/border/roundbox-rt.png") no-repeat top right;
+position: absolute;
+top: -1px;
+right: -1px;
+}
+.roundbox .roundbox-lb {
+background: url("img/border/roundbox-lb.png") no-repeat bottom left;
+position: absolute;
+bottom: -1px;
+left: -1px;
+}
+.roundbox .roundbox-rb {
+background: url("img/border/roundbox-rb.png") no-repeat bottom right;
+position: absolute;
+bottom: -1px;
+right: -1px;
+}
+pre.prettyprint{
+	font-size:110%;
+	font-size:12px;
+	line-height: 14px;
+	min-height:308px;
+	word-wrap:break-all;
+}
+.code{
+	font-family:Consolas, 'Bitstream Vera Sans Mono', 'Courier New', Courier, monospace;
+	font-size:13px;line-height: 15px; display:block;
+	overflow: visible;
+	border: 1px #ECECEC solid;
+	padding:6px;
+	min-height:320px;
+	
+}

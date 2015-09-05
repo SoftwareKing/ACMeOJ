@@ -1,0 +1,142 @@
+#ACMeOJ-Index_left {
+    width: 640px;
+    float: left;
+    margin-bottom: 30px;
+}
+
+#ACMeOJ-news {
+    width: 600px;
+    margin: 0px;
+    text-align: left;
+    border-bottom: 3px dashed #5aa000;
+}
+
+#ACMeOJ-news_side {
+    width: 560px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 15px;
+    color: #000000;
+}
+
+#ACMeOJ-news_title {
+    width: 600px;
+    height: 45px;
+    margin: 0px;
+    text-align: left;
+    overflow: hidden;
+    background: url("img/news_title.png") no-repeat;
+}
+
+#ACMeOJ-news_title h2 {
+    margin-left: 15px;
+    margin-top: 15px;
+    float: left;
+    color: #5aa000;
+}
+
+#ACMeOJ-news_title a {
+    float: right;
+    color: #5aa000;
+    font-size: 10px;
+    line-height: 65px;
+}
+
+#ACMeOJ-news_title a:hover {
+    text-decoration: underline;
+}
+
+#ACMeOJ-news_title .NewsTitle {
+    margin-left: 15px !important;
+    margin-top: 0px !important;
+    float: left !important;
+    font-size: 20px !important;
+    color: #5aa000 !important;
+}
+
+#ACMeOJ-Index_right {
+    width: 360px;
+    float: right;
+    margin-bottom: 30px;
+}
+
+#ACMeOJ-Index_user {
+    width: 340px;
+    margin: 0px;
+    text-align: left;
+    border-bottom: 3px dashed #5aa000;
+}
+
+#ACMeOJ-Index_user_title {
+    width: 340px;
+    height: 28px;
+    margin-top: 20px;
+    text-align: left;
+    overflow: hidden;
+    background: url("img/RightTitle.png") no-repeat;
+}
+
+#ACMeOJ-Index_user_title p {
+    font-size: 23px;
+    margin-left: 25px;
+    line-height: 28px;
+    color: #5aa000;
+}
+
+#ACMeOJ-Index_user_side {
+    font-size: 16px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+#ACMeOJ-index_login_form {
+    width: 100%;
+    text-align: center;
+}
+
+#ACMeOJ-index_login_form fieldset {
+    width: 320px;
+    margin: 0 auto;
+    margin-top: 10px;
+    border: none;
+    text-align: center;
+}
+
+#ACMeOJ-index_login_form fieldset legend {
+    text-align: left;
+    margin: 0 auto;
+    font-weight: bold;
+    padding: 0px 10px 0px 10px;
+}
+
+#ACMeOJ-index_login_form fieldset input {
+    width: 260px;
+    margin: 0 auto;
+    margin-bottom: 7px;
+    
+}
+
+#ACMeOJ-index_login_form fieldset img {
+    height: 40px;
+    width: 120px;
+    margin-bottom: -5px;
+}
+
+#ACMeOJ-Index_user_side ul {
+    margin-left: 50px;
+    font-size: 17px;
+}
+
+#ACMeOJ-Index_user_side ul li a:hover {
+    margin-left: 5px;
+}
+#id_checkcode{
+	letter-spacing: 3px;
+}
+#ACMeOJ-Allnews{
+	text-align: left;
+	padding-left: 100px;
+	width:900px;
+	color: #5aa000;
+}
